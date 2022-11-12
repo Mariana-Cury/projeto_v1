@@ -1,2 +1,3 @@
-# projeto_vq
-Meu primeiro projeto teste
+# projeto_v1
+Meu primeiro projeto com GitHub
+Clonando meu repositório remoto
